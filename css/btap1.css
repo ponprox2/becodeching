@@ -1,0 +1,33 @@
+
+/* header {
+ display: flex;
+} */
+div { 
+
+    
+    width: 500px;
+    border: 1px solid black;  
+    margin-top: 10px;
+    margin-left: 10px;
+}
+div h2 {
+    padding-top: 5px;
+    font-size: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+div p{
+   
+   padding: 0 5px ;
+}
+.b1{
+    background-color: grey;
+    color: wheat;
+   
+    padding: 10px;
+}
+
+.b2{
+    background-color: grey;
+    color: wheat;
+}

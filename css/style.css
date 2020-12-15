@@ -1,0 +1,36 @@
+/* .yellow{
+    width: 400px;
+    height: 350px;
+    background-color: yellow;
+}
+.red{
+    width: 400px;
+    height: 50px;
+    background-color: red;
+    margin-top: -100px;
+}
+.red-1{
+    width: 400px;
+    height: 50px;
+    background-color: blue;
+    margin-top: -150px;
+}
+.red-2{
+    width: 400px;
+    height: 50px;
+    background-color: black;
+    margin-top: -150px;
+    white-space: nowrap;
+} */
+.text{
+    background-color: aliceblue;
+    width: 400px;
+    margin: 0 auto;
+    color: tomato;
+    font-size: 20px;
+    letter-spacing: 1px;
+    white-space: 2pxx;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
